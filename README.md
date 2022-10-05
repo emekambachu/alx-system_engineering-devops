@@ -1,1 +1,1 @@
-Readme
+This repo contains a script to display the absolutepath of a directory
