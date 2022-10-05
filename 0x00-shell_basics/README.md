@@ -1,0 +1,1 @@
+This file contains a script that displays the absolute path of the directory
