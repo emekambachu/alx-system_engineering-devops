@@ -17,3 +17,4 @@ Concepts
 
 Authors:
 Emeka Victor Mbachu (victor.c.mbachu@gmail.com)
+Emmanuel Ozioko (emmanuelozioko35@gmail.com)
